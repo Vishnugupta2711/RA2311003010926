@@ -1,0 +1,182 @@
+[
+  {
+    "id": "77854225-eb6b-4683-815f-a1ac33859505",
+    "vehicleId": "675115c0-9336-4aa9-949b-e731fccf53f5",
+    "bookingDate": "2026-06-14",
+    "slot": "Morning",
+    "status": "Pending",
+    "createdAt": "2026-04-27T06:02:06.252Z",
+    "updatedAt": "2026-04-26T06:02:06.252Z"
+  },
+  {
+    "id": "48d062f8-62ac-42e9-9f5e-785c8d549823",
+    "vehicleId": "1ac3a6a5-c8aa-4a3f-9bef-6f51ce17125f",
+    "bookingDate": "2026-06-09",
+    "slot": "Afternoon",
+    "status": "Cancelled",
+    "createdAt": "2026-04-06T06:02:06.252Z",
+    "updatedAt": "2026-05-01T06:02:06.252Z"
+  },
+  {
+    "id": "99748f3f-5edd-4a10-a512-212bdac85f9d",
+    "vehicleId": "57611513-f060-4c9a-8c42-1b34edfc078f",
+    "bookingDate": "2026-04-27",
+    "slot": "Evening",
+    "status": "Cancelled",
+    "createdAt": "2026-04-12T06:02:06.252Z",
+    "updatedAt": "2026-04-29T06:02:06.252Z"
+  },
+  {
+    "id": "0880ebc3-e420-4bd7-b793-b73e12881511",
+    "vehicleId": "71ed2d03-73b1-4d94-b136-b083386bb8d6",
+    "bookingDate": "2026-05-13",
+    "slot": "Evening",
+    "status": "Cancelled",
+    "createdAt": "2026-04-09T06:02:06.252Z",
+    "updatedAt": "2026-04-29T06:02:06.252Z"
+  },
+  {
+    "id": "3a4638bc-fe30-4bad-9b4d-24a2ad828583",
+    "vehicleId": "88bb10ae-a128-43ec-bb96-4a8916209f46",
+    "bookingDate": "2026-06-06",
+    "slot": "Evening",
+    "status": "Pending",
+    "createdAt": "2026-04-30T06:02:06.252Z",
+    "updatedAt": "2026-04-23T06:02:06.252Z"
+  },
+  {
+    "id": "f8818f49-93dd-4397-acbc-cde637edd02b",
+    "vehicleId": "57611513-f060-4c9a-8c42-1b34edfc078f",
+    "bookingDate": "2026-05-14",
+    "slot": "Morning",
+    "status": "Confirmed",
+    "createdAt": "2026-05-02T06:02:06.252Z",
+    "updatedAt": "2026-04-26T06:02:06.252Z"
+  },
+  {
+    "id": "5e88653c-3e2f-485c-891b-172c1e077413",
+    "vehicleId": "24867fd4-c178-4a19-b266-48d60fad8e8b",
+    "bookingDate": "2026-06-19",
+    "slot": "Afternoon",
+    "status": "Cancelled",
+    "createdAt": "2026-04-14T06:02:06.252Z",
+    "updatedAt": "2026-04-25T06:02:06.252Z"
+  },
+  {
+    "id": "443523b5-4a37-461d-a25c-ce8a9b3060ae",
+    "vehicleId": "6dcb6d72-db27-42d5-b079-d9a1bb265207",
+    "bookingDate": "2026-05-08",
+    "slot": "Evening",
+    "status": "Confirmed",
+    "createdAt": "2026-04-11T06:02:06.252Z",
+    "updatedAt": "2026-04-26T06:02:06.252Z"
+  },
+  {
+    "id": "991da81e-cd68-490f-ae20-7b3b478be495",
+    "vehicleId": "0d7b8792-5e6d-4d57-a16e-c24164d2d52d",
+    "bookingDate": "2026-05-06",
+    "slot": "Morning",
+    "status": "Pending",
+    "createdAt": "2026-04-24T06:02:06.252Z",
+    "updatedAt": "2026-04-29T06:02:06.252Z"
+  },
+  {
+    "id": "d02ff5b6-0820-4a20-8c36-f7e1e3effb62",
+    "vehicleId": "6dcb6d72-db27-42d5-b079-d9a1bb265207",
+    "bookingDate": "2026-05-19",
+    "slot": "Morning",
+    "status": "Pending",
+    "createdAt": "2026-04-22T06:02:06.252Z",
+    "updatedAt": "2026-04-24T06:02:06.252Z"
+  },
+  {
+    "id": "ba70ba27-314c-412c-aefb-593672625f7a",
+    "vehicleId": "1ac3a6a5-c8aa-4a3f-9bef-6f51ce17125f",
+    "bookingDate": "2026-05-28",
+    "slot": "Afternoon",
+    "status": "Confirmed",
+    "createdAt": "2026-04-21T06:02:06.252Z",
+    "updatedAt": "2026-04-27T06:02:06.252Z"
+  },
+  {
+    "id": "51e5aa18-144f-485d-a097-4b4a331ebf9a",
+    "vehicleId": "675115c0-9336-4aa9-949b-e731fccf53f5",
+    "bookingDate": "2026-06-20",
+    "slot": "Morning",
+    "status": "Cancelled",
+    "createdAt": "2026-04-09T06:02:06.252Z",
+    "updatedAt": "2026-04-30T06:02:06.252Z"
+  },
+  {
+    "id": "a8613b81-e52d-46fd-86fa-9e53bc9f1bd5",
+    "vehicleId": "950b3c9b-d095-42c5-9433-e7cd8ed0c9a0",
+    "bookingDate": "2026-05-16",
+    "slot": "Evening",
+    "status": "Pending",
+    "createdAt": "2026-04-13T06:02:06.252Z",
+    "updatedAt": "2026-05-01T06:02:06.252Z"
+  },
+  {
+    "id": "beda64c6-5b71-44d1-ad7d-ba89af4f9895",
+    "vehicleId": "950b3c9b-d095-42c5-9433-e7cd8ed0c9a0",
+    "bookingDate": "2026-06-07",
+    "slot": "Afternoon",
+    "status": "Completed",
+    "createdAt": "2026-04-17T06:02:06.252Z",
+    "updatedAt": "2026-04-29T06:02:06.252Z"
+  },
+  {
+    "id": "db43677f-593d-4c99-9f12-e143e9865e76",
+    "vehicleId": "e2df1d3c-4193-4797-8559-a541863b7e47",
+    "bookingDate": "2026-05-12",
+    "slot": "Afternoon",
+    "status": "Pending",
+    "createdAt": "2026-04-14T06:02:06.252Z",
+    "updatedAt": "2026-04-28T06:02:06.252Z"
+  },
+  {
+    "id": "10b1782f-0960-49a6-a29b-d36c3b823337",
+    "vehicleId": "0d7b8792-5e6d-4d57-a16e-c24164d2d52d",
+    "bookingDate": "2026-05-27",
+    "slot": "Afternoon",
+    "status": "Cancelled",
+    "createdAt": "2026-04-10T06:02:06.252Z",
+    "updatedAt": "2026-05-01T06:02:06.252Z"
+  },
+  {
+    "id": "2646f859-07ca-48ba-896a-207b4e400212",
+    "vehicleId": "88bb10ae-a128-43ec-bb96-4a8916209f46",
+    "bookingDate": "2026-06-06",
+    "slot": "Evening",
+    "status": "Cancelled",
+    "createdAt": "2026-04-25T06:02:06.252Z",
+    "updatedAt": "2026-05-01T06:02:06.252Z"
+  },
+  {
+    "id": "68bed659-db02-4fca-9300-52a622097841",
+    "vehicleId": "e2df1d3c-4193-4797-8559-a541863b7e47",
+    "bookingDate": "2026-05-13",
+    "slot": "Afternoon",
+    "status": "Cancelled",
+    "createdAt": "2026-04-13T06:02:06.252Z",
+    "updatedAt": "2026-05-02T06:02:06.252Z"
+  },
+  {
+    "id": "95e38c4f-b99d-4ba5-8b42-e0e0727408bb",
+    "vehicleId": "e2df1d3c-4193-4797-8559-a541863b7e47",
+    "bookingDate": "2026-06-20",
+    "slot": "Morning",
+    "status": "Confirmed",
+    "createdAt": "2026-04-14T06:02:06.252Z",
+    "updatedAt": "2026-05-01T06:02:06.252Z"
+  },
+  {
+    "id": "19f40aef-0c48-414e-b5e0-acb03ba16cc6",
+    "vehicleId": "24867fd4-c178-4a19-b266-48d60fad8e8b",
+    "bookingDate": "2026-06-18",
+    "slot": "Evening",
+    "status": "Confirmed",
+    "createdAt": "2026-04-05T06:02:06.252Z",
+    "updatedAt": "2026-05-02T06:02:06.252Z"
+  }
+]
